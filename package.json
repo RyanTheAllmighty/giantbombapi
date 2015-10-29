@@ -1,0 +1,30 @@
+{
+  "name": "giantbombapi",
+  "version": "1.0.0",
+  "description": "Package for NodeJS to query and access the Giant Bomb API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanTheAllmighty/giantbombapi.git"
+  },
+  "keywords": [
+    "giantbomb",
+    "api"
+  ],
+  "author": "RyanTheAllmighty <ryan@ryantheallmighty.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RyanTheAllmighty/giantbombapi/issues"
+  },
+  "homepage": "https://github.com/RyanTheAllmighty/giantbombapi#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0"
+  }
+}
