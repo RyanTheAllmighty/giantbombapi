@@ -1,6 +1,8 @@
 # Giant Bomb API
 Package for NodeJS to query and access the Giant Bomb API
 
+[![NPM](https://nodei.co/npm/giantbombapi.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/giantbombapi/)
+
 # Getting Started
 To get started you'll need to install this package:
 
